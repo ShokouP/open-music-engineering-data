@@ -1,5 +1,11 @@
 # Open Music Engineering Data (OMED)
 
+[![GitHub stars](https://img.shields.io/github/stars/ShokouP/open-music-engineering-data?style=social)](https://github.com/ShokouP/open-music-engineering-data)
+[![Data](https://img.shields.io/badge/data-engineering--v0.1%20%C2%B7%204.6MB-blue)](https://github.com/ShokouP/open-music-engineering-data/releases/tag/engineering-v0.1)
+[![License](https://img.shields.io/badge/license-CC%20BY%204.0%20%2F%20CC0%20%2F%20MIT-lightgrey)](LICENSE-DATA.md)
+
+> 如果这些数据对你有用，欢迎点个 Star，让更多做音乐 AI 的人找到它。
+
 面向音乐 AI 的**符号 / 工程数据**：鼓演奏窗口、歌曲结构标注、DAW 工程格式规范、任务级参数样本。
 
 与姊妹项目 [Open Music Production & Audio Engineering Corpus](https://github.com/ShokouP/open-music-production-corpus)（文本 CPT 语料）互补：那边是"知识文本"，这边是"可执行的工程/符号数据"。
