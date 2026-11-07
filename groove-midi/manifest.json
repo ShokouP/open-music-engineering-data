@@ -1,0 +1,48 @@
+{
+  "url": "https://storage.googleapis.com/magentadata/datasets/groove/groove-v1.0.0-midionly.zip",
+  "archive_sha256": "651cbc524ffb891be1a3e46d89dc82a1cecb09a57c748c7b45b844c4841dcc1e",
+  "license": "CC-BY-4.0",
+  "input_performances": 1150,
+  "performances": 1149,
+  "hits": 445949,
+  "windows": 10208,
+  "split_policy": "official_performance_split",
+  "files": {
+    "performances_train.jsonl": {
+      "rows": 896,
+      "sha256": "7915a1f1a857dedb39d59c742952c0373c0302e6789e7b88d5818f588bdc0c8a",
+      "bytes": 5895526
+    },
+    "windows_train.jsonl": {
+      "rows": 8173,
+      "sha256": "2d470ecf64c7ec50f7052a33e81c4de670d81012b1bb7986680eff71326c6fc1",
+      "bytes": 8276499
+    },
+    "performances_val.jsonl": {
+      "rows": 124,
+      "sha256": "e4b74050804b56cbab86e55c2b1bf7c9432aab73ec88902d500c398ed3f7823e",
+      "bytes": 734845
+    },
+    "windows_val.jsonl": {
+      "rows": 1016,
+      "sha256": "5d5913403fb799b3a9540672e27046be81ea84fe78646423cd8bd69429e7dcdf",
+      "bytes": 1015202
+    },
+    "performances_test.jsonl": {
+      "rows": 129,
+      "sha256": "fc354688cd42f5826893cda5e00d515722dd1df3e7a8d069cfc839092c6c57d3",
+      "bytes": 731243
+    },
+    "windows_test.jsonl": {
+      "rows": 1019,
+      "sha256": "f0dcf6b8aba76aea881179a15fe5611794651969aac1fbdc65a2673d2c9b18b1",
+      "bytes": 1034281
+    }
+  },
+  "skipped": [
+    {
+      "file": "drummer2/session2/8_rock_130_beat_4-4.mid",
+      "reason": "duplicate-performance"
+    }
+  ]
+}
