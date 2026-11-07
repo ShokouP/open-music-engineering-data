@@ -1,0 +1,34 @@
+{
+  "groove-midi.tar.gz": {
+    "bytes": 4081803,
+    "sha256": "93166e79c529f6a3782ec5a6a720f5a35cd22363d019f089a066f8cb1ee7c523"
+  },
+  "salami-annotations.tar.gz": {
+    "bytes": 350180,
+    "sha256": "76feb7af65f0f1944fde0ffc20b5c53167760ad88fb5ca3d733c9fa6bae963f5"
+  },
+  "dawproject.tar.gz": {
+    "bytes": 3665,
+    "sha256": "08fc139a4e74d6f8bb8b143711d01ba3313151df88db7fd129a9ddda0b67f155"
+  },
+  "samples.tar.gz": {
+    "bytes": 164581,
+    "sha256": "84f46d5da349677f7d154facee1557e1262cded738d9e2324aee7d3328515850"
+  },
+  "registry-symbolic.lock.json": {
+    "bytes": 2751,
+    "sha256": "c18c2eabd5959ea8408258ec217ab9928208db7cf1d4de511d16182b29b76ee9"
+  },
+  "README.md": {
+    "bytes": 3935,
+    "sha256": "997087b245741e037e63b06c102baa40fe59a56b9e87633c83ede10989fce760"
+  },
+  "LICENSE": {
+    "bytes": 636,
+    "sha256": "764431785bee97785cab3117a218896a0488ef89a8a0e3f861840d945703022d"
+  },
+  "LICENSE-DATA.md": {
+    "bytes": 504,
+    "sha256": "c7feb034ddec7363c247a61d786a41476bfbf5bd85af61625fa29b6b85ca4505"
+  }
+}
