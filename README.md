@@ -87,4 +87,4 @@ python tools/check_symbolic.py       # 校验 sha256 / split / 泄漏
 
 ## 相关模型
 
-DAWcoder 4B（Qwen3.5-4B 基座，GGUF Q4_K_M，Ollama 可跑）：https://huggingface.co/Shokou1/dawcoder
+DAWcoder 4B（Qwen3.5-4B 基座，GGUF Q4_K_M，Ollama 可跑）：https://huggingface.co/Shokou1/qwen3.5-4B-dawcoder
