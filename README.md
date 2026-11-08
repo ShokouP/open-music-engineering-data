@@ -84,3 +84,7 @@ python tools/check_symbolic.py       # 校验 sha256 / split / 泄漏
 - SALAMI 时间为秒，不做 BPM/小节推断；
 - Groove 的 style/beat_type 标签沿用官方分类；
 - 这些数据是"工程/符号"侧补充，不替代真实 DAW 工程参数数据。
+
+## 相关模型
+
+DAWcoder 4B（Qwen3.5-4B 基座，GGUF Q4_K_M，Ollama 可跑）：https://huggingface.co/Shokou1/dawcoder
